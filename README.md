@@ -12,7 +12,6 @@
 💡 Passionate about SQL, ETL, and Data Warehousing  
 📊 Data analytics & visualization enthusiast  
 ☕ Tea lover | ⚽ Sports enthusiast  
-⚡ Fun fact: The term "bug" in programming came from a real moth found in a computer!  
 
 
 ## Socials:
